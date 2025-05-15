@@ -1,13 +1,16 @@
 /******************************************************************************
 * \file      CHexDump.c
-* \author    Peter Potrok
+* \version   2025.03.18
+* \author    Peter Potrok ( @ignackocom )
+*            ignacko.com@outlook.com
+*            https://github.com/ignackocom
 * \copyright Copyright (c) 1994 - 2025
 *            MIT License (see License.txt file)
 * \brief     C Hex Dump library
 *            C89, C99 and >C99 compatible, CPP compatible, Embedded C compatible
 * \details
 *
-* \see
+* \see       https://github.com/ignackocom
 *            and other resources
 ******************************************************************************/
 
